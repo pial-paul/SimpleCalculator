@@ -12,7 +12,8 @@ A sleek, web-based calculator built with HTML, CSS, and JavaScript, featuring a 
 You can view the calculator live [here](#).
 
 ## Screenshot
-![image](https://github.com/user-attachments/assets/87f19bf9-f1a5-486e-93f6-dd22c91107b5)
+![image](https://github.com/user-attachments/assets/12379a6c-aa00-4132-b423-e7fe92fe21ec)
+
 
 
 ## License
