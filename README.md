@@ -12,7 +12,8 @@ A sleek, web-based calculator built with HTML, CSS, and JavaScript, featuring a 
 You can view the calculator live [here](#).
 
 ## Screenshot
-![Calculator Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/87f19bf9-f1a5-486e-93f6-dd22c91107b5)
+
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
